@@ -1,0 +1,52 @@
+﻿Build started 19.05.2016 16:35:18.
+     1>Project "D:\C++ DERSLERİ - LABORATUVAR\Dosyalamaislemleri\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(718) : see declaration of 'fileno'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): warning C4996: 'filelength': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _filelength. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(331) : see declaration of 'filelength'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(30): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(40): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(42): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(87): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(99): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(113): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\c++ derslerİ - laboratuvar\dosyalamaislemleri\consoleapplication1\consoleapplication1\consoleapplication1.cpp(146): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++ DERSLERİ - LABORATUVAR\Dosyalamaislemleri\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C++ DERSLERİ - LABORATUVAR\Dosyalamaislemleri\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++ DERSLERİ - LABORATUVAR\Dosyalamaislemleri\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         Debug\stdafx.obj
+         ConsoleApplication1.vcxproj -> D:\C++ DERSLERİ - LABORATUVAR\Dosyalamaislemleri\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Done Building Project "D:\C++ DERSLERİ - LABORATUVAR\Dosyalamaislemleri\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.30

@@ -1,0 +1,19 @@
+﻿Build started 3.04.2016 18:28:40.
+     1>Project "D:\C++ PD2\LinkedList10StudentInfo\LinkedList10StudentInfo\LinkedList10StudentInfo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "LinkedList10StudentInfo.cpp"
+         LinkedList10StudentInfo.cpp
+     1>d:\c++ pd2\linkedlist10studentinfo\linkedlist10studentinfo\linkedlist10studentinfo.cpp(37): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>d:\c++ pd2\linkedlist10studentinfo\linkedlist10studentinfo\linkedlist10studentinfo.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\c++ pd2\linkedlist10studentinfo\linkedlist10studentinfo\linkedlist10studentinfo.cpp(100): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++ PD2\LinkedList10StudentInfo\Debug\LinkedList10StudentInfo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C++ PD2\LinkedList10StudentInfo\Debug\LinkedList10StudentInfo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++ PD2\LinkedList10StudentInfo\Debug\LinkedList10StudentInfo.lib" /MACHINE:X86 "Debug\LinkedList10StudentInfo.obj"
+         Debug\stdafx.obj
+         LinkedList10StudentInfo.vcxproj -> D:\C++ PD2\LinkedList10StudentInfo\Debug\LinkedList10StudentInfo.exe
+     1>Done Building Project "D:\C++ PD2\LinkedList10StudentInfo\LinkedList10StudentInfo\LinkedList10StudentInfo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43
